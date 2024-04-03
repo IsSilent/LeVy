@@ -1,0 +1,7 @@
+D:\HK2-2024-2025\LapTrinhMang\Chuong4\2051150220-LeVoHongVy-KM20B-BaiTap04\Examples.System.Net\SslTcpServer\bin\Debug\SslTcpServer.exe.config
+D:\HK2-2024-2025\LapTrinhMang\Chuong4\2051150220-LeVoHongVy-KM20B-BaiTap04\Examples.System.Net\SslTcpServer\bin\Debug\SslTcpServer.exe
+D:\HK2-2024-2025\LapTrinhMang\Chuong4\2051150220-LeVoHongVy-KM20B-BaiTap04\Examples.System.Net\SslTcpServer\bin\Debug\SslTcpServer.pdb
+D:\HK2-2024-2025\LapTrinhMang\Chuong4\2051150220-LeVoHongVy-KM20B-BaiTap04\Examples.System.Net\SslTcpServer\obj\Debug\SslTcpServer.csproj.AssemblyReference.cache
+D:\HK2-2024-2025\LapTrinhMang\Chuong4\2051150220-LeVoHongVy-KM20B-BaiTap04\Examples.System.Net\SslTcpServer\obj\Debug\SslTcpServer.csproj.CoreCompileInputs.cache
+D:\HK2-2024-2025\LapTrinhMang\Chuong4\2051150220-LeVoHongVy-KM20B-BaiTap04\Examples.System.Net\SslTcpServer\obj\Debug\SslTcpServer.exe
+D:\HK2-2024-2025\LapTrinhMang\Chuong4\2051150220-LeVoHongVy-KM20B-BaiTap04\Examples.System.Net\SslTcpServer\obj\Debug\SslTcpServer.pdb

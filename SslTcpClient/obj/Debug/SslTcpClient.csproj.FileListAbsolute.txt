@@ -1,0 +1,7 @@
+D:\HK2-2024-2025\LapTrinhMang\Chuong4\2051150220-LeVoHongVy-KM20B-BaiTap04\Examples.System.Net\SslTcpClient\bin\Debug\SslTcpClient.exe.config
+D:\HK2-2024-2025\LapTrinhMang\Chuong4\2051150220-LeVoHongVy-KM20B-BaiTap04\Examples.System.Net\SslTcpClient\bin\Debug\SslTcpClient.exe
+D:\HK2-2024-2025\LapTrinhMang\Chuong4\2051150220-LeVoHongVy-KM20B-BaiTap04\Examples.System.Net\SslTcpClient\bin\Debug\SslTcpClient.pdb
+D:\HK2-2024-2025\LapTrinhMang\Chuong4\2051150220-LeVoHongVy-KM20B-BaiTap04\Examples.System.Net\SslTcpClient\obj\Debug\SslTcpClient.csproj.CoreCompileInputs.cache
+D:\HK2-2024-2025\LapTrinhMang\Chuong4\2051150220-LeVoHongVy-KM20B-BaiTap04\Examples.System.Net\SslTcpClient\obj\Debug\SslTcpClient.exe
+D:\HK2-2024-2025\LapTrinhMang\Chuong4\2051150220-LeVoHongVy-KM20B-BaiTap04\Examples.System.Net\SslTcpClient\obj\Debug\SslTcpClient.pdb
+D:\HK2-2024-2025\LapTrinhMang\Chuong4\2051150220-LeVoHongVy-KM20B-BaiTap04\Examples.System.Net\SslTcpClient\obj\Debug\SslTcpClient.csproj.AssemblyReference.cache
